@@ -150,3 +150,19 @@ YuChin Juan, Wei-Sheng Chin, and Yong Zhuang
 If you have any question, please send your email to:
 
     guestwalk@gmail.com (YuChin)
+
+
+------------
+https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10555#latest-372895
+
+Dear all,
+
+We have prepared our codes and documents.
+
+For the codes, please see here; and for the documents, please see here.
+
+In this competition and Avazu's CTR competition, we find field-aware factorization machines (FFM) are powerful models. We have implemented it in the package LIBFFM.
+
+Your comments are very welcome. Thanks!
+
+-- 3 Idiots
